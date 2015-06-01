@@ -9,7 +9,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/base_link.stl"/>
+          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/base_link.dae"/>
         </geometry>
         <xacro:material_fanuc_grey />
       </visual>
@@ -24,7 +24,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_1.stl"/>
+          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_1.dae"/>
         </geometry>
         <xacro:material_fanuc_yellow />
       </visual>
@@ -39,7 +39,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_2.stl"/>
+          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_2.dae"/>
         </geometry>
         <xacro:material_fanuc_yellow />
       </visual>
@@ -54,7 +54,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_3.stl"/>
+          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_3.dae"/>
         </geometry>
         <xacro:material_fanuc_yellow />
       </visual>
@@ -69,7 +69,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_4.stl"/>
+          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_4.dae"/>
         </geometry>
         <xacro:material_fanuc_yellow />
       </visual>
@@ -84,7 +84,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_5.stl"/>
+          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_5.dae"/>
         </geometry>
         <xacro:material_fanuc_yellow />
       </visual>
@@ -99,7 +99,7 @@
       <visual>
         <origin xyz="0 0 0" rpy="0 0 0"/>
         <geometry>
-          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_6.stl"/>
+          <mesh filename="package://fanuc_m10ia_support/meshes/m10ia/visual/link_6.dae"/>
         </geometry>
         <xacro:material_fanuc_black />
       </visual>
